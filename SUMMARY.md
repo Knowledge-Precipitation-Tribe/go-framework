@@ -37,3 +37,7 @@
 * [kit](wei-fu-wu/kit.md)
 * [Consul](wei-fu-wu/consul.md)
 
+## 权限管理
+
+* [Authentication](quan-xian-guan-li/authentication.md)
+
