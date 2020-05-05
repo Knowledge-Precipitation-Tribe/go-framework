@@ -40,4 +40,5 @@
 ## 权限管理
 
 * [Authentication](quan-xian-guan-li/authentication.md)
+* [参考文献](can-kao-wen-xian.md)
 
