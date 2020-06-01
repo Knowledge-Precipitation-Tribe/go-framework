@@ -10,7 +10,8 @@
 
 * [Gin](web/gin.md)
 * [Beego](web/beego.md)
-* [iris](web/iris.md)
+* [iris](web/iris/README.md)
+  * [Iris MVC](web/iris/iris-mvc.md)
 * [GF](web/gf.md)
 * [性能分析](web/xing-neng-fen-xi.md)
 
