@@ -12,6 +12,8 @@
 * [Beego](web/beego.md)
 * [iris](web/iris/README.md)
   * [Iris MVC](web/iris/iris-mvc.md)
+  * [Iris MVC案例](web/iris/iris-mvc-an-li.md)
+  * [源码阅读](web/iris/yuan-ma-yue-du.md)
 * [GF](web/gf.md)
 * [性能分析](web/xing-neng-fen-xi.md)
 
